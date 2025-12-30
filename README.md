@@ -1,4 +1,4 @@
-🍏 **Apple (India) Landing Page Clone**
+<h1>Apple (India) Landing Page Clone</h1>
 
 A responsive and interactive landing page inspired by the official Apple India website. Built with HTML, CSS, and JavaScript, this project uses GSAP, Locomotive Scroll, and Swiper.js for smooth animations, scroll effects, and sliders.
 
